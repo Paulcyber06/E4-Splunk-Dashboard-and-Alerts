@@ -40,7 +40,7 @@ index=main sourcetype=access_combined_wcookie status=404
 
 <br>
 
-Ce rapport retourne les **10 adresses IP** ayant généré le plus d'erreurs 404 ainsiq que les candidates les plus suspectes pour une activité de reconnaissance. On sauvegarde ce rapport via **Save As > Report** avec le titre **Top 10 IPs — 404 Errors**.
+Ce rapport retourne les **10 adresses IP** ayant généré le plus d'erreurs 404 ainsi que les candidates les plus suspectes pour une activité de reconnaissance. On sauvegarde ce rapport via **Save As > Report** avec le titre **Top 10 IPs — 404 Errors**.
 
 <br>
 
